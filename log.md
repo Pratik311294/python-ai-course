@@ -12,3 +12,8 @@ day3-
 Build-even_odd & guess_num program
 Learn- while & if elif else
 Broke- add input as str, change indentation etc
+
+day4-
+Build-contacts.py
+Learn-list,tuple,dict -
+Broke- override tuple
